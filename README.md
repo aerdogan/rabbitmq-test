@@ -1,0 +1,2 @@
+# RabbitMQTest
+RabbitMQ Test Project

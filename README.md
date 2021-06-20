@@ -9,7 +9,7 @@ RabbitMQ Test Projesi
 <br />
 <br />
 imaj yüklendi ve çalışıyor ise http://localhost:8080 adresinden
-aşağıdaki yönetim konsooluna ulaşabilirsiniz
+aşağıdaki yönetim konsoluna ulaşabilirsiniz
 ![resim](https://user-images.githubusercontent.com/193318/122690860-92ebee80-d234-11eb-81c0-ba6c2bdc85dd.png)
 <br />
 <br />
